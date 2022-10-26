@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mauricio\\.nuget\\packages\\": {}
+    "C:\\Users\\zac22\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\ReverseIt\\ReverseIt\\ReverseIt.csproj",
+      "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\MauricioReverseIt\\ReverseIt\\ReverseIt.csproj",
       "projectName": "ReverseIt",
-      "projectPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\ReverseIt\\ReverseIt\\ReverseIt.csproj",
-      "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\Desktop\\Codestack Academy\\Level1\\MiniChallengeGitHubUpload\\ReverseIt\\ReverseIt\\obj\\",
+      "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\MauricioReverseIt\\ReverseIt\\ReverseIt.csproj",
+      "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\MauricioReverseIt\\ReverseIt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

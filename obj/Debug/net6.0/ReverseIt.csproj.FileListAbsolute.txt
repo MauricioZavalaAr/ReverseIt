@@ -13,3 +13,18 @@ C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\Rev
 C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.pdb
 C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.genruntimeconfig.cache
 C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ref\ReverseIt.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\refint\ReverseIt.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\MauricioReverseIt\ReverseIt\obj\Debug\net6.0\ref\ReverseIt.dll
