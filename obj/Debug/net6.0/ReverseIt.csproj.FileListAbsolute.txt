@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.exe
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.deps.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\refint\ReverseIt.dll
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.pdb
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Codestack Academy\Level1\MiniChallengeGitHubUpload\ReverseIt\ReverseIt\obj\Debug\net6.0\ref\ReverseIt.dll
